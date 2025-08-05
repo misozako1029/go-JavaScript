@@ -16,5 +16,9 @@ func validateScore(score int) error{
 
 func main(){
 	err:=validateScore(150)	
-	fmt.Printf("%s",err)
+	if err!=nil{
+		fmt.Println("エラー:",err)
+	}else{
+		fmt.Println("スコアは正常です")
+	}
 }
