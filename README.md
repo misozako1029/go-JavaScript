@@ -1,2 +1,2 @@
-# go-language-masuta-suru
-go言語をマスターする
+# go&JavaScript-masuta-suru
+go言語とJavaScriptをマスターする
